@@ -5,5 +5,7 @@
    </head>
    <body>
        <h1>Bonjour, ceci est mon fichier test!</h1>
+       <p>Modification ajoutée dans branche1</p>
+       <p>Calcul : 5 + 3 = 8</p>
    </body>
    </html>
